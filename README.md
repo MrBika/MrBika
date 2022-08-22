@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![MrBika's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MrBika&theme=github)](https://git.io/praveenscience)
+
 <!--
 **MrBika/MrBika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
